@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "mach_msg_trap:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "normalise_window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.renderer(SCNSceneRenderer, updateAtTime : Double) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Float(currentMagneticField.z / length)">
+            </PersistentString>
+            <PersistentString
+               value = "attitude.rotationMatrix">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "_swift_release_(swift::HeapObject*):(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "normalise_window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.getMagnetometerData() -&gt; (x : Double, y : Double, z : Double):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "counter">
+            </PersistentString>
+            <PersistentString
+               value = "test_data[counter]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.updateCounter() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "get_highest(magno_readings_n, index: i_mod + (frame_size * 0), spread: frame_size/8)">
+            </PersistentString>
+            <PersistentString
+               value = "get_highest(magno_readings_n, index: i_mod + (frame_size * 3), spread: frame_size/8)">
+            </PersistentString>
+            <PersistentString
+               value = "magno_readings_n[magno_readings_n.count-1]">
+            </PersistentString>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+            <PersistentString
+               value = "magno_readings_n">
+            </PersistentString>
+            <PersistentString
+               value = "counter">
+            </PersistentString>
+            <PersistentString
+               value = "get_highest(magno_readings_n, index: i_mod + (frame_size * 2), spread: frame_size/8)">
+            </PersistentString>
+            <PersistentString
+               value = "get_highest(magno_readings_n, index: i_mod + (frame_size * 1), spread: frame_size/8)">
+            </PersistentString>
+            <PersistentString
+               value = "readings">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.locationManager(CLLocationManager, didUpdateHeading : CLHeading) -&gt; ():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.transformMatrix3ToMatrix4(CMRotationMatrix) -&gt; SCNMatrix4:ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.trilaterate(Float, r2 : Float, r3 : Float) -&gt; (x : Float, y : Float, z : Float):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(r1*r1) - (x*x) - (y*y)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.ticker() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "magno_readings_x">
+            </PersistentString>
+            <PersistentString
+               value = "magno_readings_n">
+            </PersistentString>
+            <PersistentString
+               value = "counter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
