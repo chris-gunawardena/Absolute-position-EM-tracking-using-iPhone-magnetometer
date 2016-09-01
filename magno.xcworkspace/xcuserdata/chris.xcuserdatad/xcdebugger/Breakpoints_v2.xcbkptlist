@@ -26,12 +26,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "magno/ViewController.swift"
-            timestampString = "493640429.83402"
+            timestampString = "494457153.042116"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "122"
-            endingLineNumber = "122"
-            landmarkName = "ticker()"
+            startingLineNumber = "271"
+            endingLineNumber = "271"
+            landmarkName = "trilaterate(_:r2:r3:)"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -42,12 +42,28 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "magno/ViewController.swift"
-            timestampString = "493640429.83402"
+            timestampString = "494457153.042116"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "249"
-            endingLineNumber = "249"
-            landmarkName = "trilaterate(_:r2:r3:)"
+            startingLineNumber = "252"
+            endingLineNumber = "252"
+            landmarkName = "plot3d(_:x:y:z:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "magno/ViewController.swift"
+            timestampString = "494464232.200054"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "ticker()"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
