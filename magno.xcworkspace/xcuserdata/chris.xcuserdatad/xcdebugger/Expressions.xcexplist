@@ -90,13 +90,16 @@
          contextName = "ViewController.ticker() -&gt; ():ViewController.swift">
          <PersistentStrings>
             <PersistentString
-               value = "magno_readings_x">
-            </PersistentString>
-            <PersistentString
                value = "magno_readings_n">
             </PersistentString>
             <PersistentString
                value = "counter">
+            </PersistentString>
+            <PersistentString
+               value = "magno_readings_x">
+            </PersistentString>
+            <PersistentString
+               value = "magno_readings_n.last">
             </PersistentString>
          </PersistentStrings>
       </ContextState>

@@ -18,6 +18,7 @@
 		833B3A2D1CC62B3E00FC0EB2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 833B3A2C1CC62B3E00FC0EB2 /* Images.xcassets */; };
 		835571B41D41782B00049BB3 /* Charts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 835571B31D41782B00049BB3 /* Charts.framework */; };
 		83AE916B1CC52E8000183D75 /* magneto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 83AE916A1CC52E8000183D75 /* magneto.jpg */; };
+		83CA01371D7971E700720E2C /* testdata.csv in Resources */ = {isa = PBXBuildFile; fileRef = 83CA01361D7971E700720E2C /* testdata.csv */; };
 		BFB869E9259BB39231F41137 /* Pods_magno.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47E426E54FBA6C9BDB4C5A04 /* Pods_magno.framework */; };
 /* End PBXBuildFile section */
 
@@ -57,6 +58,7 @@
 		833B3A2C1CC62B3E00FC0EB2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		835571B31D41782B00049BB3 /* Charts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Charts.framework; path = "Pods/../build/Debug-iphoneos/Charts.framework"; sourceTree = "<group>"; };
 		83AE916A1CC52E8000183D75 /* magneto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = magneto.jpg; sourceTree = "<group>"; };
+		83CA01361D7971E700720E2C /* testdata.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = testdata.csv; sourceTree = "<group>"; };
 		A42B2BCA68DA1890EE40AC01 /* Pods-magno.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-magno.debug.xcconfig"; path = "Pods/Target Support Files/Pods-magno/Pods-magno.debug.xcconfig"; sourceTree = "<group>"; };
 		CF4E93E00B72E5383FD6B57C /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		EBF21892C423CB50AFF1BE6C /* Pods-magno.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-magno.release.xcconfig"; path = "Pods/Target Support Files/Pods-magno/Pods-magno.release.xcconfig"; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				8310562E1C00363F00E74A91 /* LaunchScreen.storyboard */,
 				831056311C00363F00E74A91 /* Info.plist */,
 				833B3A2C1CC62B3E00FC0EB2 /* Images.xcassets */,
+				83CA01361D7971E700720E2C /* testdata.csv */,
 			);
 			path = magno;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 			files = (
 				831056301C00363F00E74A91 /* LaunchScreen.storyboard in Resources */,
 				833B3A2D1CC62B3E00FC0EB2 /* Images.xcassets in Resources */,
+				83CA01371D7971E700720E2C /* testdata.csv in Resources */,
 				83AE916B1CC52E8000183D75 /* magneto.jpg in Resources */,
 				8310562B1C00363F00E74A91 /* Main.storyboard in Resources */,
 			);
